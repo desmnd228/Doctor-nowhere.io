@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+a{
+    color: yellow;
+}
+header{
+    background-color: rgb(69, 2, 2);
+    padding: 20px;
+    text-align: center;
+    border-bottom: rgb(52, 20, 20);
+}
+header h1{
+    font-family: 'zilla slab';
+    font-size: 3em;
+    color: rgb(229, 183, 183);
+    margin: 0;
+}
+header p{
+    font-size: medium;
+    color: rgb(229,183,183);
+    margin-top: 10px;
+}
+.container{
+    max-width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(55, 55, 55,0.8);
+}
+section{
+    margin-bottom: 40px;
+    background-color: rgb(31, 14, 14,0.70);
+}
+section h2{
+    text-align: center;
+    font-size: large;
+    border-left: 4px solid rgb(69, 2, 2);
+}
+section p{
+    margin: 10px 0;
+}
+.frases{
+    font-family: 'zilla slab';
+    color: rgb(182, 53, 53);
+    background-color: rgb(38, 7, 7);
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    margin: 20px 0;
+}
+footer{
+    background-color: rgb(31, 14, 14);
+    padding: 10px;
+    text-align: center;
+    color: white;
+    border-top: 4px solid rgb(99, 55, 55);
+}
+footer a{
+    color: rgb(120, 27, 27);
+    text-decoration: none;
+}
+img{
+    width: 20%;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid white
+}
